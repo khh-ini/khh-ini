@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/khhini)
 [![Static Badge](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@khhini)
 
-### Technical Competencies
+### Tech Stack
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
