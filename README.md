@@ -18,6 +18,11 @@
 ![Static Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 <br>
 
+### Certifications
+[![Google Profesional Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/42110135)](https://www.credential.net/0ed6a298-e90c-4bf1-a865-96cc7fd4e1fa#gs.3gpqhy)
+[![Google Profesional Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39024014)](https://www.credential.net/dc1d1150-d2ed-4085-a466-ffd78a389522#gs.3gpm84)
+
+
 ### Stats
 <div align = "left">
 <a href = "https://github.com/khhini">
