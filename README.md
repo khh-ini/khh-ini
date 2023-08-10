@@ -19,8 +19,9 @@
 <br>
 
 ### Certifications
-[![Google Profesional Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/42110135)](https://www.credential.net/0ed6a298-e90c-4bf1-a865-96cc7fd4e1fa#gs.3gpqhy)
-[![Google Profesional Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39024014)](https://www.credential.net/dc1d1150-d2ed-4085-a466-ffd78a389522#gs.3gpm84)
+[![Google Profesional DevOps Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79349297)](https://google.accredible.com/a0b17776-ce91-4440-86f8-78c760e6d6ec)
+[![Google Profesional Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/42110135)](https://google.accredible.com/0ed6a298-e90c-4bf1-a865-96cc7fd4e1fa)
+[![Google Profesional Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39024014)](https://google.accredible.com/dc1d1150-d2ed-4085-a466-ffd78a389522)
 
 
 ### Stats
