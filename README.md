@@ -1,8 +1,5 @@
 ### Reach me on
 [![Static Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kiki.h.hutapea@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kiki-h-hutapea)
-[![Static Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/khhini)
-[![Static Badge](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@khhini)
 
 ### Tech Stack
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
