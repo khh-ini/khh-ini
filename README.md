@@ -13,7 +13,7 @@
 ### Preferred Programming Language
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Rust-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Rust-00ADD8?logo=rust&logoColor=white&style=for-the-badge)
 <br>
 
 ### Certifications
