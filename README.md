@@ -17,10 +17,14 @@
 <br>
 
 ### Certifications
-[![Google Profesional DevOps Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79349297)](https://google.accredible.com/a0b17776-ce91-4440-86f8-78c760e6d6ec)
-[![Google Profesional Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/42110135)](https://google.accredible.com/0ed6a298-e90c-4bf1-a865-96cc7fd4e1fa)
 <a href="https://www.credly.com/badges/7744d6d8-a7f9-4da7-9131-5f1168836b66">
   <img src="https://images.credly.com/size/680x680/images/4ea0ec5c-6258-4c26-9282-6ed233c0c7ac/image.png" alt="Google Professional Cloud Security Engineer" width=200px>
+</a>
+<a href="https://www.credly.com/badges/c2bb295d-4100-49e8-a7fa-36b77a33045f">
+  <img src="https://images.credly.com/size/680x680/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" alt="Google Professional Cloud DevOps Engineer" width=200px>
+</a>
+<a href="https://www.credly.com/badges/9e33a097-634f-4d54-96a0-f300822a4423">
+  <img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Google Professional Cloud Architect" width=200px>
 </a>
 
 ### Stats
@@ -33,3 +37,4 @@
 </a>
 </div>
 </br>
+
